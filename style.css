@@ -1,0 +1,14 @@
+.slide {
+  width: 300px;
+  height: 250px;
+}
+
+#mainSlide {
+  width: 100vw;
+  height: 70vh;
+  overflow: hidden;
+}
+
+#sliderContainer {
+  overflow: hidden;
+}
